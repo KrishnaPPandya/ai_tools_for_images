@@ -18,3 +18,4 @@
 ### _Week 5 - AI-Powered Tools and User Interaction:_
 ### _Week 6 - Finalization:_
 ### _Week 7 - Refinement and Deployment:_
+### _Week 8 - Deploy the Website:_
